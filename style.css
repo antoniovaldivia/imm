@@ -5,7 +5,7 @@ body {
     font: 400 normal 1rem/2 'Roboto', helvetica, arial, sans-serif;
 }
 
-/* Why did you use de 1rem/2 on this example? What does that means?:
+/* Why did you use de 1rem/2 on this example? What does that means?
 
 Can an image be inside of a heading?  */
 
@@ -29,7 +29,7 @@ Can an image be inside of a heading?  */
     display: inline;
 }
 
-/* Is it ok to give stlye to the items like this??  */
+/* Is it ok to stlye to the list items like this??  */
 
 .dark {
     background-color: #fff;
