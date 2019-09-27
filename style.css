@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,400i,900,900i&display=swap');
+body { 
+    background-color: #fff;
+    color: #222;
+    font: 400 normal 1rem/2 'Roboto', helvetica, arial, sans-serif;
+}
+
+/* Why did you use de 1rem/2 on this example? What does that means?:
+
+Can an image be inside of a heading?  */
+
+.menubar {
+    background-color: #333;
+    color: #fff;
+}
+
+.section { 
+
+}
+
+.product {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    text-align: center;
+}
+
+.product li {
+    display: inline;
+}
+
+.dark {
+    background-color: #fff;
+    color: #000;
+}
+
+.light {
+    background-color: #000;
+    color: #fff;
+}
+
+.iphone-11-pro {
+    background-image: url('img/iphone11pro.jpg');
+}
+
+.iphone-11 {
+    background-image: url('img/iphone11.jpg');
+}
+
+.watch {
+    background-image: url('img/watch.jpg');
+}
+
+.watch img {
+   max-width: 9em;
+}
+
