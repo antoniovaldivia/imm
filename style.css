@@ -29,6 +29,8 @@ Can an image be inside of a heading?  */
     display: inline;
 }
 
+/* Is it ok to give stlye to the items like this??  */
+
 .dark {
     background-color: #fff;
     color: #000;
